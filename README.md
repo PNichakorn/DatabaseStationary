@@ -1,6 +1,6 @@
 # DatabaseStationary
 1. ดาวน์โหลดโปรเจค "Data management systems within online stores stationary.zip"
-2. นำเข้าฐานข้อมูลจากไฟล์ "datastationary(1).sql"
+2. นำเข้าฐานข้อมูลจากไฟล์ "datastationary.sql"
 3. หากฐานข้อมูลของเราไม่สามารถเชื่อมต่อได้ให้ทำตามขั้นตอนดังต่อไปนี้
     3.1 เปลี่ยนการตั้งค่าการเชื่อมต่อในไฟล์ connect.java แล้วตั้งค่าไฟล์ user = "root",password = "1234", url = "jdbc:mysql://localhost/datastationary" 
     3.2 คุณสามารถเปลี่ยนการเชื่อมต่อฐานข้อมูลของคุณโดย

@@ -8,6 +8,12 @@
         3.2.2. mysql-connector-java-5.1.23-bin.jar
         3.2.3. rs2xml(1).jar
         
+**การดู Code Connect
+เข้าโฟล์เดอร์ Data management systems within online stores stationary  >>> จากนั้นเลือดโฟล์เดอร์ที่ต้องการจะดู >>> เลือกไฟล์ src >>> เลือกไฟล์ connect.java (เพื่อดูการเชื่อมต่อระหว่างฐานข้อมูลกับจาวาแอพิชั่น)
+
+**การดูโปรแกรมที่ออกแบบไว้
+เข้าโฟล์เดอร์ Data management systems within online stores stationary  >>> จากนั้นเลือดโฟล์เดอร์ที่ต้องการจะดู >>> เลือกไฟล์ src >>> เลือกไฟล์ Fพame1.java หรือ Form1.java(สำหรับ Product)
+        
 #### Project Database กลุ่มที่ 12
 นางสาวกันติชา 		  มณีกุล 	          61050812  กลุ่ม ศุกร์บ่าย
 นายณัฐพล 			    นันไชยวงศ์	       61050830  กลุ่ม ศุกร์บ่าย
